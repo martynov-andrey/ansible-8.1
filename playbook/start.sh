@@ -2,7 +2,7 @@
 
 host1='ubuntu'
 host2='centos7'
-host3='fadora'
+host3='fedora'
 
 
 for i in ${!host*}; do
